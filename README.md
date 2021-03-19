@@ -1,1 +1,1 @@
-# flight-pricr-prediction
+# flight-price-prediction
